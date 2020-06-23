@@ -4,6 +4,7 @@ github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/SuburbanDad/bls-eth-go-binary v0.0.0-20200619071004-f8df4fcea646 h1:T13yBImM3Pe/HaHFhV6fg7TLOyKyeQ3HrLzBaD87uTA=
 github.com/SuburbanDad/bls-eth-go-binary v0.0.0-20200619071004-f8df4fcea646/go.mod h1:luAnRm3OsMQeokhGzpYmc0ZKwawY7o87PUEP11Z7r7U=
+github.com/SuburbanDad/bls-eth-go-binary v0.0.0-20200623075646-aa4c368bc097/go.mod h1:KEG61EtFkcejCbEGnM3NB5SEBBQAPAMzQTisM9ZVdQw=
 github.com/antihax/optional v0.0.0-20180407024304-ca021399b1a6/go.mod h1:V8iCPQYkqmusNa815XgQio277wI47sdRh1dUOLdyC6Q=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash v1.1.0 h1:a6HrQnmkObjyL+Gs60czilIUGqrzKutQD6XZog3p+ko=
