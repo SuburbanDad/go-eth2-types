@@ -16,4 +16,4 @@ require (
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
 
-replace github.com/herumi/bls-eth-go-binary => github.com/SuburbanDad/bls-eth-go-binary v0.0.0-20200623075646-aa4c368bc097
+replace github.com/herumi/bls-eth-go-binary => github.com/SuburbanDad/bls-eth-go-binary v0.0.0-20200623081506-2da431e58d0c
